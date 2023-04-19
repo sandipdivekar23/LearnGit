@@ -1,0 +1,6 @@
+18/04/2013
+
+Started working on restructing of input_filter for 5094
+1) Studied DUT for tag related information (check tags info in DUT and find and relate them in Logix designer).
+2) Started noting the difference in tags for input filter on 5032 and on 5094 (.ACD for 5094 is shared by Chandrakant)
+3) PLC study for Ladder Logic.
